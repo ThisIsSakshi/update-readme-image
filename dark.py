@@ -1,4 +1,4 @@
-#main.py
+#dark.py
 """
 GitHub Action Code to update README file with provided images randomly.
 """
